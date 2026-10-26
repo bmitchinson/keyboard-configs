@@ -355,19 +355,18 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 338,
+      "label": "↑",
+      "extraLabel": ""
     },
     {
-      "keyCode": 17493,
+      "keyCode": 17451,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "type": "lock",
+          "type": "shift",
           "layerNumber": 2
         },
         "_owner": null
@@ -392,16 +391,15 @@
       "verbose": "Left Command"
     },
     {
+      "keyCode": 226,
+      "label": "LEFT ⌥",
+      "verbose": "Left Option"
+    },
+    {
       "keyCode": 224,
       "label": "CTRL",
       "extraLabel": "LEFT",
       "verbose": "Left Control"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 17493,
@@ -417,10 +415,10 @@
       }
     },
     {
-      "keyCode": 228,
-      "label": "CTRL",
-      "extraLabel": "RIGHT",
-      "verbose": "Right Control"
+      "keyCode": 230,
+      "label": "RIGHT ⌥",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
       "keyCode": 231,
@@ -441,10 +439,17 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17493,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 2
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 6177,
@@ -480,14 +485,14 @@
     2,
     2,
     2,
-    12,
+    1,
     3,
     4,
     4,
     8,
     8,
     8,
-    12,
+    8,
     2,
     2,
     2,
@@ -516,7 +521,7 @@
     2,
     2,
     1,
-    12,
+    3,
     4,
     4,
     8,
